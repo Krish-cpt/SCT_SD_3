@@ -1,4 +1,5 @@
-# 🧩 Sudoku Solver – Task 3  
+# SCT_SD_3
+# 🧩 Sudoku Solver 
 
 ## 📌 Overview  
 This project is part of my internship at **SkillCraft Technology** (Task 3).  
@@ -62,3 +63,4 @@ The goal is to build a **Sudoku Solver** using Python that can automatically sol
    cd SCT_WD_3
 /SCT_WD_3.git
    cd SCT_WD_3
+
